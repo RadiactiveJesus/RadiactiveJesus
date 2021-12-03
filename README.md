@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**RadiactiveJesus/RadiactiveJesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently a full time student at Microverse Inc.
+- 🌱 I’m currently learning Full Stack Web Development (Ruby on Rails, React and Redux)
+- 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Project
+- I'm open to new job opportunities
+- I'm a Blockchain developer and software freedom activist
+- 💬 Ask me about Web Development
+- 😄 Pronouns: He/Him
+- ⚡ If it looks difficult, change your perspective
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=ReAliens&show_icons=true&theme=radical)](https://github.com/ReAliens/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReAliens&show_icons=true&theme=radical&layout=compact)](https://github.com/ReAliens/github-readme-stats) 
