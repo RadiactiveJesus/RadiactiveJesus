@@ -6,7 +6,6 @@
 - I'm open to new job opportunities
 - I'm a Blockchain developer and software freedom activist
 - 💬 Ask me about Web Development
-- 😄 Pronouns: He/Him
 - ⚡ If it looks difficult, change your perspective
 
 
